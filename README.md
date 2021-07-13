@@ -1,6 +1,6 @@
 # mynotes
 
-A new Flutter project.
+A flutter project for personal note-taking.
 
 ## Getting Started
 
